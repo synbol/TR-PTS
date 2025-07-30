@@ -6,7 +6,7 @@
 </div>
 
 ## 📚 Introduction 
-
+We propose Task-Relevant Parameter and Token Selection (TR-PTS), a novel framework that unifies task-driven parameter selection and token refinement. We evaluate TR-PTS on benchmark datasets, including FGVC and VTAB-1k, where it achieves state-of-the-art performance, surpassing full fine- tuning by 3.40% and 10.35%, respectively.
 
 ## 🔥 News
 **[2025-07-]** 🎉🎉🎉 Our TR-PTS is accepted by ICCV 2025! 🎉🎉🎉
